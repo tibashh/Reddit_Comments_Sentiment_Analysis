@@ -73,7 +73,8 @@ http://127.0.0.1:5000/predict
 ---
 
 ## 📡 API Usage
-<img width="1062" height="837" alt="Ekran görüntüsü 2025-10-03 213555" src="https://github.com/user-attachments/assets/5a3c2709-ca89-4961-9087-724b14161108" />
+
+<img width="1062" height="837" alt="Ekran görüntüsü 2025-10-03 213555" src="https://github.com/user-attachments/assets/8fd76720-ddc6-4ced-9e74-413dd9d671eb" />
 
 
 <img width="1082" height="816" alt="Ekran görüntüsü 2025-10-03 213743" src="https://github.com/user-attachments/assets/897ec21d-9094-4579-ad09-0ea91e03451a" />
