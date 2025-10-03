@@ -75,9 +75,13 @@ http://127.0.0.1:5000/predict
 ## 📡 API Usage
 <img width="1062" height="837" alt="Ekran görüntüsü 2025-10-03 213555" src="https://github.com/user-attachments/assets/5a3c2709-ca89-4961-9087-724b14161108" />
 
-<img width="1082" height="816" alt="Ekran görüntüsü 2025-10-03 213743" src="https://github.com/user-attachments/assets/50684a38-5150-45a0-98fe-c3b4fe0f18d9" />
 
-<img width="1077" height="807" alt="Ekran görüntüsü 2025-10-03 213957" src="https://github.com/user-attachments/assets/8dc6d06f-446e-4e1f-a4d9-b3ebece07cea" />
+<img width="1082" height="816" alt="Ekran görüntüsü 2025-10-03 213743" src="https://github.com/user-attachments/assets/897ec21d-9094-4579-ad09-0ea91e03451a" />
+
+
+<img width="1077" height="807" alt="Ekran görüntüsü 2025-10-03 213957" src="https://github.com/user-attachments/assets/8b861791-c39a-46d2-9cf1-54f8969207b4" />
+
+
 
 ## 🛠 Tech Stack
 - **Python 3**
